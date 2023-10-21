@@ -1,4 +1,4 @@
-<h1>Projeto Desafio Jokenpow</h1>
+<h1>Projeto Dev-Sorteio</h1>
 <br>
 <h2>Linguagens utilizadas:</h2>
 <lo>
@@ -7,5 +7,5 @@
   <li>JavaScript: Implementamos JavaScript para adicionar interatividade e funcionalidades dinâmicas.</li>
 </lo>
 <br>
-<img src="https://github.com/Josetelma/Projeto-Desafio-Jokenpow/blob/main/assets/images/Jokenpow2.PNG?raw=true"/>
-<img src="https://github.com/Josetelma/Projeto-Desafio-Jokenpow/blob/main/assets/images/Jokenpow.PNG?raw=true"/>
+<img src="https://github.com/Josetelma/Projeto-Dev-Sorteio/blob/main/assets/DEV%20SORTEIO.PNG?raw=true"/>
+
